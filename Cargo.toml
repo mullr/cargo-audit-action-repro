@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 flume = "0.9.1"
+
+# synthetic change
